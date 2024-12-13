@@ -1,0 +1,90 @@
+[
+    {
+        "title":"Why we use <br> tag",
+        "answer_1":"To make line",
+        "answer_2":"To make BreakLine",
+        "answer_3":"To make the elemnt bolder",
+        "answer_4":"To make color",
+        "right_answer":"To make BreakLine"
+    },
+    {
+        "title":"Why we use <hr> tag",
+        "answer_1":"To make line",
+        "answer_2":"To make BreakLine",
+        "answer_3":"To make the elemnt bolder",
+        "answer_4":"To make color",
+        "right_answer":"To make line"
+    },
+    {
+        "title":"The img tag has atribute href",
+        "answer_1":"Yes",
+        "answer_2":"All",
+        "answer_3":"No its to a tag",
+        "answer_4":"answer 1 and 2",
+        "right_answer":"No its to a tag"
+    },
+    {
+        "title":"how many degree tag H has",
+        "answer_1":"3",
+        "answer_2":"4",
+        "answer_3":"5",
+        "answer_4":"6",
+        "right_answer":"6"
+    },
+    {
+        "title":"the basic frontend",
+        "answer_1":"html and css",
+        "answer_2":"html",
+        "answer_3":"html , css and js",
+        "answer_4":"js",
+        "right_answer":"html , css and js"
+    },
+    {
+        "title":"fon-size in css",
+        "answer_1":"make text bolder",
+        "answer_2":"make text larger",
+        "answer_3":"make text smaller",
+        "answer_4":"make text larger and smaller",
+        "right_answer":"make text larger and smaller"
+    },
+    {
+        "title":"fon-size in css",
+        "answer_1":"make text bolder",
+        "answer_2":"make text larger",
+        "answer_3":"make text smaller",
+        "answer_4":"make text larger and smaller",
+        "right_answer":"make text larger and smaller"
+    },
+    {
+        "title":"font-wight in css",
+        "answer_1":"make text bolder",
+        "answer_2":"make text larger",
+        "answer_3":"make text smaller",
+        "answer_4":"make text larger and smaller",
+        "right_answer":"make text bolder"
+    },
+    {
+        "title":"we write html code in ",
+        "answer_1":"body",
+        "answer_2":"head",
+        "answer_3":"html",
+        "answer_4":"none of this",
+        "right_answer":"body"
+    },
+    {
+        "title":"we write html code in ",
+        "answer_1":"body",
+        "answer_2":"head",
+        "answer_3":"html",
+        "answer_4":"none of this",
+        "right_answer":"body"
+    },
+    {
+        "title":"font-family in css",
+        "answer_1":"type of font",
+        "answer_2":"bold of font",
+        "answer_3":"none of this",
+        "answer_4":"To make color",
+        "right_answer":"type of font"
+    }
+]
